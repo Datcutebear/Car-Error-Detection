@@ -1,8 +1,8 @@
-# Project
+## Project
 Lane Departure Detection and Classification System
-# Description
+## Description
 [LANE-CHANGE VIOLATION DETECTION AND CLASSIFICATION](https://docs.google.com/document/d/13fqNm8cKUnYmPUtTaj5asVClae_tHlb1v29Bxq1QXCM/edit?tab=t.0)
-# Technology and Language
+## Technology and Language
 - [x] YOLO
 - [x] ByteTracking
 - [x] IOU
@@ -13,15 +13,15 @@ Lane Departure Detection and Classification System
 - [x] EasyORC
 - [x] Tensorflow
 - [x] OpenCV
-# Scalability of your solution
+## Scalability of your solution
 [LANE-CHANGE VIOLATION DETECTION AND CLASSIFICATION](https://docs.google.com/document/d/13fqNm8cKUnYmPUtTaj5asVClae_tHlb1v29Bxq1QXCM/edit?tab=t.0)
-# Security of your solution
+## Security of your solution
 [LANE-CHANGE VIOLATION DETECTION AND CLASSIFICATION](https://docs.google.com/document/d/13fqNm8cKUnYmPUtTaj5asVClae_tHlb1v29Bxq1QXCM/edit?tab=t.0)
-# Result
+## Result
 [LANE-CHANGE VIOLATION DETECTION AND CLASSIFICATION](https://docs.google.com/document/d/13fqNm8cKUnYmPUtTaj5asVClae_tHlb1v29Bxq1QXCM/edit?tab=t.0)
-# Project Repository URL
+## Project Repository URL
 [LANE-CHANGE VIOLATION DETECTION AND CLASSIFICATION](https://github.com/Datcutebear/Car-Error-Detection)
-# Project video
+## Project video
 [LANE-CHANGE VIOLATION DETECTION AND CLASSIFICATION](https://drive.google.com/drive/folders/1NkcKjXi1jQoAHQRNC1NGRT1BX4phYqUh?hl=vi)
-# Team member
+## Team member
 Dat Duong
